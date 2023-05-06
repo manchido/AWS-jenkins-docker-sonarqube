@@ -1,10 +1,13 @@
 # AWS-jenkins-docker-sonarqube
 
-### Jenkins - Used in automating the build and deployment to docker. 
-### Github - Version control and collaboration. 
-### Sonarqube - For code analysis 
-tool that helps analyze and manage code quality in software projects. 
-### Docker - Containerization of software build for deployment.
+### Jenkins 
+Used in automating the build and deployment to docker. 
+### Github  
+Version control and collaboration. 
+### Sonarqube  
+For code analysis. Tool that helps analyze and manage code quality in software projects. 
+### Docker  
+Containerization of software build for deployment.
 
 ## STEPS
 
